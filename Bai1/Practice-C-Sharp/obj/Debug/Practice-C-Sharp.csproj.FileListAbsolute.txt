@@ -1,6 +1,0 @@
-D:\code\ktpm1-practice-c-\Bai1\Practice-C-Sharp\bin\Debug\Practice-C-Sharp.exe.config
-D:\code\ktpm1-practice-c-\Bai1\Practice-C-Sharp\bin\Debug\Practice-C-Sharp.exe
-D:\code\ktpm1-practice-c-\Bai1\Practice-C-Sharp\bin\Debug\Practice-C-Sharp.pdb
-D:\code\ktpm1-practice-c-\Bai1\Practice-C-Sharp\obj\Debug\Practice-C-Sharp.csprojResolveAssemblyReference.cache
-D:\code\ktpm1-practice-c-\Bai1\Practice-C-Sharp\obj\Debug\Practice-C-Sharp.exe
-D:\code\ktpm1-practice-c-\Bai1\Practice-C-Sharp\obj\Debug\Practice-C-Sharp.pdb

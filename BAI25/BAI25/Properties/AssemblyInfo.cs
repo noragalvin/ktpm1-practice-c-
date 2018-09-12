@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Practice-C-Sharp")]
+[assembly: AssemblyTitle("BAI25")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Practice-C-Sharp")]
+[assembly: AssemblyProduct("BAI25")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("aa170e3c-6fda-4713-a633-99aeda3f10d2")]
+[assembly: Guid("3719ccc7-e7b9-40b8-8bd2-e7e68f0461d9")]
 
 // Version information for an assembly consists of the following four values:
 //
