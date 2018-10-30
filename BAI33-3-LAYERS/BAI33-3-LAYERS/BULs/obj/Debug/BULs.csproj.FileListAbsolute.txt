@@ -1,0 +1,9 @@
+D:\code\ktpm1-practice-c-\BAI33-3-LAYERS\BAI33-3-LAYERS\BULs\bin\Debug\BULs.dll
+D:\code\ktpm1-practice-c-\BAI33-3-LAYERS\BAI33-3-LAYERS\BULs\bin\Debug\BULs.pdb
+D:\code\ktpm1-practice-c-\BAI33-3-LAYERS\BAI33-3-LAYERS\BULs\obj\Debug\BULs.csprojResolveAssemblyReference.cache
+D:\code\ktpm1-practice-c-\BAI33-3-LAYERS\BAI33-3-LAYERS\BULs\obj\Debug\BULs.dll
+D:\code\ktpm1-practice-c-\BAI33-3-LAYERS\BAI33-3-LAYERS\BULs\obj\Debug\BULs.pdb
+D:\code\ktpm1-practice-c-\BAI33-3-LAYERS\BAI33-3-LAYERS\BULs\bin\Debug\DALs.dll
+D:\code\ktpm1-practice-c-\BAI33-3-LAYERS\BAI33-3-LAYERS\BULs\bin\Debug\DTOs.dll
+D:\code\ktpm1-practice-c-\BAI33-3-LAYERS\BAI33-3-LAYERS\BULs\bin\Debug\DALs.pdb
+D:\code\ktpm1-practice-c-\BAI33-3-LAYERS\BAI33-3-LAYERS\BULs\bin\Debug\DTOs.pdb

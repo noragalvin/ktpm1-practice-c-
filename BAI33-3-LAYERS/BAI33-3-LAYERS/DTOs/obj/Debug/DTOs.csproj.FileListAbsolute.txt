@@ -1,0 +1,5 @@
+D:\code\ktpm1-practice-c-\BAI33-3-LAYERS\BAI33-3-LAYERS\DTOs\bin\Debug\DTOs.dll
+D:\code\ktpm1-practice-c-\BAI33-3-LAYERS\BAI33-3-LAYERS\DTOs\bin\Debug\DTOs.pdb
+D:\code\ktpm1-practice-c-\BAI33-3-LAYERS\BAI33-3-LAYERS\DTOs\obj\Debug\DTOs.csprojResolveAssemblyReference.cache
+D:\code\ktpm1-practice-c-\BAI33-3-LAYERS\BAI33-3-LAYERS\DTOs\obj\Debug\DTOs.dll
+D:\code\ktpm1-practice-c-\BAI33-3-LAYERS\BAI33-3-LAYERS\DTOs\obj\Debug\DTOs.pdb

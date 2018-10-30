@@ -1,0 +1,8 @@
+D:\code\ktpm1-practice-c-\BAI33-3-LAYERS\BAI33-3-LAYERS\DALs\bin\Debug\DALs.dll.config
+D:\code\ktpm1-practice-c-\BAI33-3-LAYERS\BAI33-3-LAYERS\DALs\bin\Debug\DALs.dll
+D:\code\ktpm1-practice-c-\BAI33-3-LAYERS\BAI33-3-LAYERS\DALs\bin\Debug\DALs.pdb
+D:\code\ktpm1-practice-c-\BAI33-3-LAYERS\BAI33-3-LAYERS\DALs\bin\Debug\DTOs.dll
+D:\code\ktpm1-practice-c-\BAI33-3-LAYERS\BAI33-3-LAYERS\DALs\bin\Debug\DTOs.pdb
+D:\code\ktpm1-practice-c-\BAI33-3-LAYERS\BAI33-3-LAYERS\DALs\obj\Debug\DALs.csprojResolveAssemblyReference.cache
+D:\code\ktpm1-practice-c-\BAI33-3-LAYERS\BAI33-3-LAYERS\DALs\obj\Debug\DALs.dll
+D:\code\ktpm1-practice-c-\BAI33-3-LAYERS\BAI33-3-LAYERS\DALs\obj\Debug\DALs.pdb

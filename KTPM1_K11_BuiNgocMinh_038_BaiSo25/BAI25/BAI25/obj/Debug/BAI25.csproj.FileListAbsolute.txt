@@ -1,0 +1,6 @@
+D:\code\ktpm1-practice-c-\BAI25\BAI25\bin\Debug\BAI25.exe.config
+D:\code\ktpm1-practice-c-\BAI25\BAI25\bin\Debug\BAI25.exe
+D:\code\ktpm1-practice-c-\BAI25\BAI25\bin\Debug\BAI25.pdb
+D:\code\ktpm1-practice-c-\BAI25\BAI25\obj\Debug\BAI25.exe
+D:\code\ktpm1-practice-c-\BAI25\BAI25\obj\Debug\BAI25.pdb
+D:\code\ktpm1-practice-c-\BAI25\BAI25\obj\Debug\BAI25.csprojResolveAssemblyReference.cache

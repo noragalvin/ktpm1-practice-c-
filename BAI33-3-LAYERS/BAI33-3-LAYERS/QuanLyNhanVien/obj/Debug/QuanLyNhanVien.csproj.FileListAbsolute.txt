@@ -1,0 +1,16 @@
+D:\code\ktpm1-practice-c-\BAI33-3-LAYERS\BAI33-3-LAYERS\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.exe.config
+D:\code\ktpm1-practice-c-\BAI33-3-LAYERS\BAI33-3-LAYERS\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.exe
+D:\code\ktpm1-practice-c-\BAI33-3-LAYERS\BAI33-3-LAYERS\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.pdb
+D:\code\ktpm1-practice-c-\BAI33-3-LAYERS\BAI33-3-LAYERS\QuanLyNhanVien\bin\Debug\BULs.dll
+D:\code\ktpm1-practice-c-\BAI33-3-LAYERS\BAI33-3-LAYERS\QuanLyNhanVien\bin\Debug\DALs.dll
+D:\code\ktpm1-practice-c-\BAI33-3-LAYERS\BAI33-3-LAYERS\QuanLyNhanVien\bin\Debug\DTOs.dll
+D:\code\ktpm1-practice-c-\BAI33-3-LAYERS\BAI33-3-LAYERS\QuanLyNhanVien\bin\Debug\BULs.pdb
+D:\code\ktpm1-practice-c-\BAI33-3-LAYERS\BAI33-3-LAYERS\QuanLyNhanVien\bin\Debug\DALs.pdb
+D:\code\ktpm1-practice-c-\BAI33-3-LAYERS\BAI33-3-LAYERS\QuanLyNhanVien\bin\Debug\DTOs.pdb
+D:\code\ktpm1-practice-c-\BAI33-3-LAYERS\BAI33-3-LAYERS\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csprojResolveAssemblyReference.cache
+D:\code\ktpm1-practice-c-\BAI33-3-LAYERS\BAI33-3-LAYERS\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.Properties.Resources.resources
+D:\code\ktpm1-practice-c-\BAI33-3-LAYERS\BAI33-3-LAYERS\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.GenerateResource.Cache
+D:\code\ktpm1-practice-c-\BAI33-3-LAYERS\BAI33-3-LAYERS\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.exe
+D:\code\ktpm1-practice-c-\BAI33-3-LAYERS\BAI33-3-LAYERS\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.pdb
+D:\code\ktpm1-practice-c-\BAI33-3-LAYERS\BAI33-3-LAYERS\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.ThemNhanVien.resources
+D:\code\ktpm1-practice-c-\BAI33-3-LAYERS\BAI33-3-LAYERS\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.NhanVien.resources
